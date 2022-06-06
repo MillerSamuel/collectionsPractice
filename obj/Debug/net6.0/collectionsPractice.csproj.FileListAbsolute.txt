@@ -1,0 +1,15 @@
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\collectionsPractice\bin\Debug\net6.0\collectionsPractice.exe
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\collectionsPractice\bin\Debug\net6.0\collectionsPractice.deps.json
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\collectionsPractice\bin\Debug\net6.0\collectionsPractice.runtimeconfig.json
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\collectionsPractice\bin\Debug\net6.0\collectionsPractice.dll
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\collectionsPractice\bin\Debug\net6.0\collectionsPractice.pdb
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\collectionsPractice\obj\Debug\net6.0\collectionsPractice.csproj.AssemblyReference.cache
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\collectionsPractice\obj\Debug\net6.0\collectionsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\collectionsPractice\obj\Debug\net6.0\collectionsPractice.AssemblyInfoInputs.cache
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\collectionsPractice\obj\Debug\net6.0\collectionsPractice.AssemblyInfo.cs
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\collectionsPractice\obj\Debug\net6.0\collectionsPractice.csproj.CoreCompileInputs.cache
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\collectionsPractice\obj\Debug\net6.0\collectionsPractice.dll
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\collectionsPractice\obj\Debug\net6.0\refint\collectionsPractice.dll
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\collectionsPractice\obj\Debug\net6.0\collectionsPractice.pdb
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\collectionsPractice\obj\Debug\net6.0\collectionsPractice.genruntimeconfig.cache
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\collectionsPractice\obj\Debug\net6.0\ref\collectionsPractice.dll
